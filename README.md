@@ -8,6 +8,6 @@ Using skills learned from Coursera, I created an adjustable deep neural network 
 
 At the end, you can see the results of training the model with different values of the hyperparameter lambda (used in L2 Regularization).  I found that the optimal lamda value for training a deep neural network with 3 32 node hidden layers, a learning rate of .0001 for 1000 epochs with a minibatch size of 500 is around .09 (resulting in the highest test accuracy).
 
-The model takes too long to run on my laptop, so i will not be training it any furthur, the run that you see is essentially a proof of concept to make sure the model did not crash.  If i were to modify it, I would use a cross validation set to tune more of the hyperparameters such as the layer dimensions or the learning rate.  I look forward to building Deep learning models in the future that can work on real world data and make an impact.
+The model takes too long to run on my laptop, so i will not be training it any furthur, the run that you see doubled as a proof of concept to make sure the model did not crash.  If i were to modify it, I would use a cross validation set to tune more of the hyperparameters such as the layer dimensions or the learning rate.  I look forward to building Deep learning models in the future that can work on real world data and make an impact.
 
 
